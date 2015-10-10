@@ -1,0 +1,18 @@
+{
+    "name": "digo-less",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-less",
+    "description": "digo 插件：使用 lesscss 编译 LESS",
+    "keywords": [
+        "digo plugin",
+        "less"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "less": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
